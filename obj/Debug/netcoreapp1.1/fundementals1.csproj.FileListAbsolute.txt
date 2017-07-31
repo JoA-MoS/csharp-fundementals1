@@ -1,0 +1,8 @@
+c:\dev\CodingDojo\c#\fundementals1\bin\Debug\netcoreapp1.1\fundementals1.deps.json
+c:\dev\CodingDojo\c#\fundementals1\bin\Debug\netcoreapp1.1\fundementals1.runtimeconfig.json
+c:\dev\CodingDojo\c#\fundementals1\bin\Debug\netcoreapp1.1\fundementals1.runtimeconfig.dev.json
+c:\dev\CodingDojo\c#\fundementals1\bin\Debug\netcoreapp1.1\fundementals1.dll
+c:\dev\CodingDojo\c#\fundementals1\bin\Debug\netcoreapp1.1\fundementals1.pdb
+c:\dev\CodingDojo\c#\fundementals1\obj\Debug\netcoreapp1.1\fundementals1.AssemblyInfo.cs
+c:\dev\CodingDojo\c#\fundementals1\obj\Debug\netcoreapp1.1\fundementals1.dll
+c:\dev\CodingDojo\c#\fundementals1\obj\Debug\netcoreapp1.1\fundementals1.pdb
